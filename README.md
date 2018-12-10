@@ -1,6 +1,7 @@
 # Face Keypoints Detection & Applying Snapchat Filters in PyTorch, CV2
 
-This is my implementation of a face keypoints detection algorithm, which predicts the keypoints of a face as purple dots shown here:
+This is my implementation of a face keypoints detection algorithm, which predicts the keypoints of a face as below, and applies Snapchat-like 
+Dog Ears filter using the coordinates of the keypoints detected:
 <img src="images/result.png">
 The main task was to carry out image-to-image translation from Horse to Zebra.
 
