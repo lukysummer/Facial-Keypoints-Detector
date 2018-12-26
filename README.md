@@ -32,6 +32,3 @@ Datasets necessary for this implementation can be downloaded from [this link](ht
 I referenced the following sources for building & debugging the final model :
 
 * https://github.com/udacity/P1_Facial_Keypoints/tree/master
-
-
-
