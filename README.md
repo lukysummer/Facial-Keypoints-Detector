@@ -1,4 +1,4 @@
-# Face Keypoints Detection & Applying Snapchat Filters in PyTorch, CV2
+# Face Keypoints Detection & Snapchat Filters (PyTorch, CV2)
 
 This is my implementation of a face keypoints detection algorithm, which predicts the keypoints of a face as below, and applies Snapchat-like 
 Dog Ears filter using the coordinates of the keypoints detected:
